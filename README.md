@@ -1,2 +1,3 @@
-# open-ml-project-gfag
-A machine learning project for modern development workflows
+# Open Ml Project Gfag
+
+A machine learning project for modern development workflows.
